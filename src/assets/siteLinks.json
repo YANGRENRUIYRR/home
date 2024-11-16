@@ -28,5 +28,15 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.yangrenrui-qwq.com/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热搜API",
+    "link": "https://top-api.yangrenrui-qwq.com/"
+  },
+  {
+    "icon": "ClockRegular",
+    "name": "计时器",
+    "link": "https://time.yangrenrui-qwq.com/"
   }
 ]
