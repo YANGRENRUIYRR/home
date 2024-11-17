@@ -7,7 +7,7 @@
   {
     "icon": "Bug",
     "name": "帮助文档",
-    "link": "https://help.yangrenrui-qwq.com/"
+    "link": "https://docs.yangrenrui-qwq.com/"
   },
   {
     "icon": "Compass",
@@ -36,7 +36,12 @@
   },
   {
     "icon": "ClockRegular",
-    "name": "计时器",
-    "link": "https://time.yangrenrui-qwq.com/"
+    "name": "计时器-电脑版",
+    "link": "https://timer.yangrenrui-qwq.com/"
+  },
+  {
+    "icon": "ClockRegular",
+    "name": "计时器-手机版",
+    "link": "https://timer-mobile.yangrenrui-qwq.com/"
   }
 ]
