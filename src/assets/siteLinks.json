@@ -43,5 +43,15 @@
     "icon": "ClockRegular",
     "name": "计时器-手机版",
     "link": "https://timer-mobile.yangrenrui-qwq.com/"
+  },
+  {
+    "icon": "Code",
+    "name": "CfRating",
+    "link": "https://cfrating.yangrenrui-qwq.com/"
+  },
+  {
+    "icon": "Code",
+    "name": "AtRating",
+    "link": "https://atrating.yangrenrui-qwq.com/"
   }
 ]
