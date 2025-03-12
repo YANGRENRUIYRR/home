@@ -84,5 +84,10 @@
     "icon": "Code",
     "name": "AI",
     "link": "https://ai.yangrenrui-qwq.com/"
+  },
+  {
+    "icon": "Code",
+    "name": "图床",
+    "link": "https://imagebed.yangrenrui-qwq.com/"
   }
 ]
