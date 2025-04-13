@@ -89,5 +89,10 @@
     "icon": "Code",
     "name": "图床",
     "link": "https://imagebed.yangrenrui-qwq.com/"
+  },
+  {
+    "icon": "Code",
+    "name": "报时器",
+    "link": "https://time.yangrenrui-qwq.com/"
   }
 ]
